@@ -292,7 +292,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🏝️
-1b | Link to `commit #1 from Github.com` | [link]https://github.com/jeremykemp1/learn-git-milestones/commits?author=jeremykemp1
+1b | Link to `commit #1 from Github.com` | [link]https://github.com/jeremykemp1/learn-git-milestones/commit/51586493ded3596aab2bfa51eaed473c25c9ee5f
 1c | Link to markdown tables docs | [link]https://www.pluralsight.com/guides/working-tables-github-markdown
 1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji | 🏊
