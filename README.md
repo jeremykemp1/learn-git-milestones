@@ -299,7 +299,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | https://github.com/jeremykemp1/learn-git-milestones/commit/66fec35c62561532ea6b972bdfa30e775c8f5b6c
 2c | Full path to your working directory | /Users/jeremykemp
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 🙌
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `first-website` github.com repo page | https://github.com/jeremykemp1/first-website
 4a | Link to `first-website` github.io "project site" | https://jeremykemp1.github.io/first-website/
