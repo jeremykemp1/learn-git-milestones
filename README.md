@@ -297,11 +297,11 @@ Item # | Description | Completed
 1d | What does `log` do? |
 2a | 2nd Favorite emoji | 🏊
 2b | Link to `commit #2 from Github Desktop` |
-2c | Full path to your working directory |
+2c | Full path to your working directory | /Users/jeremykemp/Documents/GitHub/learn-git-milestones
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 😊
 2f | Link to `commit #4 from VS Code` |
-3a | Link to `first-website` github.com repo page |
+3a | Link to `first-website` github.com repo page | /Users/jeremykemp/Documents/GitHub/dig-245/first-website/first-website
 4a | Link to `first-website` github.io "project site" |
 
 
