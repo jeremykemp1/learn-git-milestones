@@ -302,7 +302,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `first-website` github.com repo page | https://github.com/jeremykemp1/first-website
-4a | Link to `first-website` github.io "project site" |
+4a | Link to `first-website` github.io "project site" | https://jeremykemp1.github.io/first-website/
 
 
 
