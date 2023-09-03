@@ -292,17 +292,19 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 🏝️
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
+1b | Link to `commit #1 from Github.com` | [link]https://github.com/jeremykemp1/learn-git-milestones/commit/51586493ded3596aab2bfa51eaed473c25c9ee5f
+1c | Link to markdown tables docs | [link]https://www.pluralsight.com/guides/working-tables-github-markdown
+1d | What does `log` do? | Show commit logs
 2a | 2nd Favorite emoji | 🏊
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory | /Users/jeremykemp/Documents/GitHub/learn-git-milestones
+2b | Link to `commit #2 from Github Desktop` | https://github.com/jeremykemp1/learn-git-milestones/commit/66fec35c62561532ea6b972bdfa30e775c8f5b6c
+2c | Full path to your working directory | /Users/jeremykemp
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji | 😊
-2f | Link to `commit #4 from VS Code` |
-3a | Link to `first-website` github.com repo page | /Users/jeremykemp/Documents/GitHub/dig-245/first-website/first-website
-4a | Link to `first-website` github.io "project site" |
+2f | Link to `commit #4 from VS Code` | 
+3a | Link to `first-website` github.com repo page | https://github.com/jeremykemp1/first-website
+4a | Link to `first-website` github.io "project site" | https://jeremykemp1.github.io/first-website/
 
 
 
